@@ -95,6 +95,9 @@ nav span:first-child {
 .button a:hover {
   background-color: blue;
   color: white;
+}
+
+.button a:active {
   padding: 1.8rem 1.8rem 1.8rem 1.8rem;
 }
 
