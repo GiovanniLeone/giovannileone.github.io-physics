@@ -52,6 +52,10 @@ nav span:first-child {
   width: 50%;
 }
 
+.info {
+  display: none;
+}
+
 .curie {
   width: 50%;
 }
@@ -125,4 +129,21 @@ footer {
 .main_content img {
   width: 350px;
   height: 350px;
+}
+
+.learn_container {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.learn {
+  background-color: white;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+  border-radius: 1rem;
+  color: black;
+}
+
+.learn:hover {
+  background-color: blue;
+  color: white;
 }
